@@ -148,7 +148,7 @@ Material:
     - _Refraction: 0.4
     - _RefractionDistance: 10
     - _RefractionFalloff: 1
-    - _ScrollSpeed: 20
+    - _ScrollSpeed: 1
     - _ShoreFade: 0.56
     - _ShoreTransparency: 0.5
     - _Smoothness: 0.5
