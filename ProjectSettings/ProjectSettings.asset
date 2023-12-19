@@ -886,11 +886,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 2
-  cloudProjectId: 
+  cloudProjectId: dfa1fcf1-dafd-4587-bf58-8ed9284eb474
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: unity-essentials-Jeevan-Raghupathy
+  organizationId: jeevan-raghupathy
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
